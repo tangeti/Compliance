@@ -1,0 +1,1332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="organizer_country" table="x_grs_compliance_annualintegrityreview" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>MEAI</dependent_value>
+            <element>organizer_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Algeria</label>
+            <language>en</language>
+            <name>x_grs_compliance_annualintegrityreview</name>
+            <sequence/>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-05-04 19:43:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7557c6dddbe232003a22fbb9af9619d5</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-04 19:47:27</sys_updated_on>
+            <value>Algeria</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>MEAI</dependent_value>
+            <element>organizer_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Algeria Branch</label>
+            <language>en</language>
+            <name>x_grs_compliance_annualintegrityreview</name>
+            <sequence/>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-05-04 19:43:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0e67c6dddbe232003a22fbb9af9619d5</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-04 19:47:28</sys_updated_on>
+            <value>Algeria Branch</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>MEAI</dependent_value>
+            <element>organizer_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Angola</label>
+            <language>en</language>
+            <name>x_grs_compliance_annualintegrityreview</name>
+            <sequence/>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-05-04 19:43:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>90770adddbe232003a22fbb9af9619dd</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-04 19:47:30</sys_updated_on>
+            <value>Angola</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Latin America</dependent_value>
+            <element>organizer_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Argentina</label>
+            <language>en</language>
+            <name>x_grs_compliance_annualintegrityreview</name>
+            <sequence/>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-05-04 19:41:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6cd60e9ddbe232003a22fbb9af961903</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-04 19:42:52</sys_updated_on>
+            <value>Argentina</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Asia</dependent_value>
+            <element>organizer_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Australia</label>
+            <language>en</language>
+            <name>x_grs_compliance_annualintegrityreview</name>
+            <sequence/>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-05-04 18:55:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ef3c3999dbe232003a22fbb9af9619be</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-04 18:57:38</sys_updated_on>
+            <value>Australia</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Europe</dependent_value>
+            <element>organizer_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Austria</label>
+            <language>en</language>
+            <name>x_grs_compliance_annualintegrityreview</name>
+            <sequence/>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-05-04 19:00:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a37d75d9dbe232003a22fbb9af9619d8</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-04 19:39:51</sys_updated_on>
+            <value>Austria</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>MEAI</dependent_value>
+            <element>organizer_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Bahrain</label>
+            <language>en</language>
+            <name>x_grs_compliance_annualintegrityreview</name>
+            <sequence/>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-05-04 19:44:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e27786dddbe232003a22fbb9af961985</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-04 19:47:31</sys_updated_on>
+            <value>Bahrain</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Europe</dependent_value>
+            <element>organizer_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Belgium</label>
+            <language>en</language>
+            <name>x_grs_compliance_annualintegrityreview</name>
+            <sequence/>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-05-04 19:00:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7f8df5d9dbe232003a22fbb9af96191b</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-04 19:39:53</sys_updated_on>
+            <value>Belgium</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Latin America</dependent_value>
+            <element>organizer_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Brazil</label>
+            <language>en</language>
+            <name>x_grs_compliance_annualintegrityreview</name>
+            <sequence/>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-05-04 19:41:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ede646dddbe232003a22fbb9af96195d</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-04 19:42:55</sys_updated_on>
+            <value>Brazil</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>North America</dependent_value>
+            <element>organizer_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Canada</label>
+            <language>en</language>
+            <name>x_grs_compliance_annualintegrityreview</name>
+            <sequence/>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-05-04 19:48:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4238c6dddbe232003a22fbb9af9619ba</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-04 19:48:36</sys_updated_on>
+            <value>Canada</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Latin America</dependent_value>
+            <element>organizer_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Chile</label>
+            <language>en</language>
+            <name>x_grs_compliance_annualintegrityreview</name>
+            <sequence/>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-05-04 19:41:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>34f642dddbe232003a22fbb9af961951</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-04 19:42:57</sys_updated_on>
+            <value>Chile</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Asia</dependent_value>
+            <element>organizer_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>China</label>
+            <language>en</language>
+            <name>x_grs_compliance_annualintegrityreview</name>
+            <sequence/>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-05-04 18:55:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>234cb1d9dbe232003a22fbb9af96195e</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-04 18:57:40</sys_updated_on>
+            <value>China</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Latin America</dependent_value>
+            <element>organizer_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Colombia</label>
+            <language>en</language>
+            <name>x_grs_compliance_annualintegrityreview</name>
+            <sequence/>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-05-04 19:42:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b80706dddbe232003a22fbb9af9619b2</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-04 19:42:59</sys_updated_on>
+            <value>Colombia</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>MEAI</dependent_value>
+            <element>organizer_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cote d'Ivoire</label>
+            <language>en</language>
+            <name>x_grs_compliance_annualintegrityreview</name>
+            <sequence/>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-05-04 19:44:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7487c6dddbe232003a22fbb9af9619f2</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-04 19:47:32</sys_updated_on>
+            <value>Cote d'Ivoire</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Europe</dependent_value>
+            <element>organizer_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Croatia</label>
+            <language>en</language>
+            <name>x_grs_compliance_annualintegrityreview</name>
+            <sequence/>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-05-04 19:01:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>639df1d9dbe232003a22fbb9af961962</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-04 19:39:54</sys_updated_on>
+            <value>Croatia</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Europe</dependent_value>
+            <element>organizer_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Czech Republic</label>
+            <language>en</language>
+            <name>x_grs_compliance_annualintegrityreview</name>
+            <sequence/>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-05-04 19:01:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>35ad35d9dbe232003a22fbb9af96194b</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-04 19:39:55</sys_updated_on>
+            <value>Czech Republic</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Europe</dependent_value>
+            <element>organizer_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Denmark</label>
+            <language>en</language>
+            <name>x_grs_compliance_annualintegrityreview</name>
+            <sequence/>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-05-04 19:01:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>48bd3dd9dbe232003a22fbb9af961965</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-04 19:39:56</sys_updated_on>
+            <value>Denmark</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>MEAI</dependent_value>
+            <element>organizer_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Egypt</label>
+            <language>en</language>
+            <name>x_grs_compliance_annualintegrityreview</name>
+            <sequence/>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-05-04 19:44:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e38706dddbe232003a22fbb9af961924</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-04 19:47:34</sys_updated_on>
+            <value>Egypt</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Europe</dependent_value>
+            <element>organizer_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Estonia</label>
+            <language>en</language>
+            <name>x_grs_compliance_annualintegrityreview</name>
+            <sequence/>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-05-04 19:01:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a6bd7dd9dbe232003a22fbb9af961941</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-04 19:39:57</sys_updated_on>
+            <value>Estonia</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Europe</dependent_value>
+            <element>organizer_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Finland</label>
+            <language>en</language>
+            <name>x_grs_compliance_annualintegrityreview</name>
+            <sequence/>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-05-04 19:01:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e8cd79d9dbe232003a22fbb9af96195f</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-04 19:39:59</sys_updated_on>
+            <value>Finland</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Europe</dependent_value>
+            <element>organizer_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Germany</label>
+            <language>en</language>
+            <name>x_grs_compliance_annualintegrityreview</name>
+            <sequence/>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-05-04 19:01:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a2cd79d9dbe232003a22fbb9af96196d</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-04 19:40:00</sys_updated_on>
+            <value>Germany</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Europe</dependent_value>
+            <element>organizer_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Greece</label>
+            <language>en</language>
+            <name>x_grs_compliance_annualintegrityreview</name>
+            <sequence/>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-05-04 19:01:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5cdd3dd9dbe232003a22fbb9af96191c</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-04 19:40:02</sys_updated_on>
+            <value>Greece</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Asia</dependent_value>
+            <element>organizer_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Hong Kong</label>
+            <language>en</language>
+            <name>x_grs_compliance_annualintegrityreview</name>
+            <sequence/>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-05-04 18:55:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ce5c3d99dbe232003a22fbb9af961947</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-04 18:57:43</sys_updated_on>
+            <value>Hong Kong</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Europe</dependent_value>
+            <element>organizer_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Hungary</label>
+            <language>en</language>
+            <name>x_grs_compliance_annualintegrityreview</name>
+            <sequence/>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-05-04 19:02:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c7dd79d9dbe232003a22fbb9af961971</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-04 19:40:04</sys_updated_on>
+            <value>Hungary</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>MEAI</dependent_value>
+            <element>organizer_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>India</label>
+            <language>en</language>
+            <name>x_grs_compliance_annualintegrityreview</name>
+            <sequence/>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-05-04 19:44:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c6970adddbe232003a22fbb9af9619da</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-04 19:47:37</sys_updated_on>
+            <value>India</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Asia</dependent_value>
+            <element>organizer_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Indonesia</label>
+            <language>en</language>
+            <name>x_grs_compliance_annualintegrityreview</name>
+            <sequence/>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-05-04 18:55:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>786cf1d9dbe232003a22fbb9af9619c3</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-04 18:57:49</sys_updated_on>
+            <value>Indonesia</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>MEAI</dependent_value>
+            <element>organizer_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Iraq</label>
+            <language>en</language>
+            <name>x_grs_compliance_annualintegrityreview</name>
+            <sequence/>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-05-04 19:44:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>41a74adddbe232003a22fbb9af9619f4</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-04 19:47:39</sys_updated_on>
+            <value>Iraq</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Europe</dependent_value>
+            <element>organizer_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Ireland</label>
+            <language>en</language>
+            <name>x_grs_compliance_annualintegrityreview</name>
+            <sequence/>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-05-04 19:02:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c2ed3dd9dbe232003a22fbb9af9619f1</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-04 19:40:05</sys_updated_on>
+            <value>Ireland</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Europe</dependent_value>
+            <element>organizer_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Israel</label>
+            <language>en</language>
+            <name>x_grs_compliance_annualintegrityreview</name>
+            <sequence/>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-05-04 19:02:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>30fdbdd9dbe232003a22fbb9af96198a</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-04 19:40:11</sys_updated_on>
+            <value>Israel</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Europe</dependent_value>
+            <element>organizer_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Italy</label>
+            <language>en</language>
+            <name>x_grs_compliance_annualintegrityreview</name>
+            <sequence/>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-05-04 19:02:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>93fd79d9dbe232003a22fbb9af961969</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-04 19:40:12</sys_updated_on>
+            <value>Italy</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>MEAI</dependent_value>
+            <element>organizer_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Jordan or Lebanon</label>
+            <language>en</language>
+            <name>x_grs_compliance_annualintegrityreview</name>
+            <sequence/>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-05-04 19:45:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c3a74adddbe232003a22fbb9af9619fa</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-04 19:47:40</sys_updated_on>
+            <value>Jordan or Lebanon</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Europe</dependent_value>
+            <element>organizer_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Kazakhstan</label>
+            <language>en</language>
+            <name>x_grs_compliance_annualintegrityreview</name>
+            <sequence/>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-05-04 19:02:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7d0ebdd9dbe232003a22fbb9af96198a</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-04 19:40:14</sys_updated_on>
+            <value>Kazakhstan</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Asia</dependent_value>
+            <element>organizer_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Korea</label>
+            <language>en</language>
+            <name>x_grs_compliance_annualintegrityreview</name>
+            <sequence/>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-05-04 18:55:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5d7c35d9dbe232003a22fbb9af96195e</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-04 18:57:51</sys_updated_on>
+            <value>Korea</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>MEAI</dependent_value>
+            <element>organizer_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Kuwait</label>
+            <language>en</language>
+            <name>x_grs_compliance_annualintegrityreview</name>
+            <sequence/>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-05-04 19:45:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a9b70adddbe232003a22fbb9af9619e3</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-04 19:47:42</sys_updated_on>
+            <value>Kuwait</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>MEAI</dependent_value>
+            <element>organizer_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Lebanon or Jordan</label>
+            <language>en</language>
+            <name>x_grs_compliance_annualintegrityreview</name>
+            <sequence/>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-05-04 19:45:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>80c746dddbe232003a22fbb9af96194c</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-04 19:47:43</sys_updated_on>
+            <value>Lebanon or Jordan</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>MEAI</dependent_value>
+            <element>organizer_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Libya</label>
+            <language>en</language>
+            <name>x_grs_compliance_annualintegrityreview</name>
+            <sequence/>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-05-04 19:45:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4ec746dddbe232003a22fbb9af961964</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-04 19:47:45</sys_updated_on>
+            <value>Libya</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Asia</dependent_value>
+            <element>organizer_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Malaysia</label>
+            <language>en</language>
+            <name>x_grs_compliance_annualintegrityreview</name>
+            <sequence/>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-05-04 18:56:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2b7c35d9dbe232003a22fbb9af9619db</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-04 18:57:53</sys_updated_on>
+            <value>Malaysia</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Latin America</dependent_value>
+            <element>organizer_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Mexico</label>
+            <language>en</language>
+            <name>x_grs_compliance_annualintegrityreview</name>
+            <sequence/>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-05-04 19:42:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>430706dddbe232003a22fbb9af9619b3</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-04 19:43:01</sys_updated_on>
+            <value>Mexico</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>MEAI</dependent_value>
+            <element>organizer_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Morocco</label>
+            <language>en</language>
+            <name>x_grs_compliance_annualintegrityreview</name>
+            <sequence/>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-05-04 19:45:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fed746dddbe232003a22fbb9af96194c</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-04 19:47:49</sys_updated_on>
+            <value>Morocco</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Europe</dependent_value>
+            <element>organizer_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Netherlands</label>
+            <language>en</language>
+            <name>x_grs_compliance_annualintegrityreview</name>
+            <sequence/>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-05-04 19:02:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bb0e39d9dbe232003a22fbb9af9619aa</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-04 19:40:19</sys_updated_on>
+            <value>Netherlands</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Asia</dependent_value>
+            <element>organizer_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>New Zealand</label>
+            <language>en</language>
+            <name>x_grs_compliance_annualintegrityreview</name>
+            <sequence/>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-05-04 18:56:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>128cb5d9dbe232003a22fbb9af961935</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-04 18:57:54</sys_updated_on>
+            <value>New Zealand</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>MEAI</dependent_value>
+            <element>organizer_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Nigeria</label>
+            <language>en</language>
+            <name>x_grs_compliance_annualintegrityreview</name>
+            <sequence/>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-05-04 19:45:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d1e70adddbe232003a22fbb9af961932</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-04 19:47:50</sys_updated_on>
+            <value>Nigeria</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Europe</dependent_value>
+            <element>organizer_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Norway</label>
+            <language>en</language>
+            <name>x_grs_compliance_annualintegrityreview</name>
+            <sequence/>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-05-04 19:03:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7d1efdd9dbe232003a22fbb9af9619a2</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-04 19:40:20</sys_updated_on>
+            <value>Norway</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>MEAI</dependent_value>
+            <element>organizer_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Oman</label>
+            <language>en</language>
+            <name>x_grs_compliance_annualintegrityreview</name>
+            <sequence/>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-05-04 19:46:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3be7c6dddbe232003a22fbb9af961964</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-04 19:47:52</sys_updated_on>
+            <value>Oman</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>MEAI</dependent_value>
+            <element>organizer_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pakistan</label>
+            <language>en</language>
+            <name>x_grs_compliance_annualintegrityreview</name>
+            <sequence/>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-05-04 19:46:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>daf7cadddbe232003a22fbb9af961958</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-04 19:47:54</sys_updated_on>
+            <value>Pakistan</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Latin America</dependent_value>
+            <element>organizer_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Peru</label>
+            <language>en</language>
+            <name>x_grs_compliance_annualintegrityreview</name>
+            <sequence/>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-05-04 19:42:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ad1746dddbe232003a22fbb9af96195f</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-04 19:43:02</sys_updated_on>
+            <value>Peru</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Asia</dependent_value>
+            <element>organizer_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Philippines</label>
+            <language>en</language>
+            <name>x_grs_compliance_annualintegrityreview</name>
+            <sequence/>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-05-04 18:56:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>999c75d9dbe232003a22fbb9af9619b7</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-04 18:57:55</sys_updated_on>
+            <value>Philippines</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Europe</dependent_value>
+            <element>organizer_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Poland</label>
+            <language>en</language>
+            <name>x_grs_compliance_annualintegrityreview</name>
+            <sequence/>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-05-04 19:03:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>802e311ddbe232003a22fbb9af961915</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-04 19:40:22</sys_updated_on>
+            <value>Poland</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Europe</dependent_value>
+            <element>organizer_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Portugal</label>
+            <language>en</language>
+            <name>x_grs_compliance_annualintegrityreview</name>
+            <sequence/>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-05-04 19:03:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9e2efdd9dbe232003a22fbb9af9619ff</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-04 19:40:23</sys_updated_on>
+            <value>Portugal</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>MEAI</dependent_value>
+            <element>organizer_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Qatar</label>
+            <language>en</language>
+            <name>x_grs_compliance_annualintegrityreview</name>
+            <sequence/>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-05-04 19:46:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ac08c6dddbe232003a22fbb9af9619b8</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-04 19:47:56</sys_updated_on>
+            <value>Qatar</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Europe</dependent_value>
+            <element>organizer_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Romania</label>
+            <language>en</language>
+            <name>x_grs_compliance_annualintegrityreview</name>
+            <sequence/>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-05-04 19:03:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ec3efdd9dbe232003a22fbb9af9619e2</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-04 19:40:28</sys_updated_on>
+            <value>Romania</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Europe</dependent_value>
+            <element>organizer_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Russia - Moscow</label>
+            <language>en</language>
+            <name>x_grs_compliance_annualintegrityreview</name>
+            <sequence/>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-05-04 19:03:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7e3efdd9dbe232003a22fbb9af9619b7</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-04 19:40:29</sys_updated_on>
+            <value>Russia - Moscow</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Europe</dependent_value>
+            <element>organizer_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Russia - Sakhalin</label>
+            <language>en</language>
+            <name>x_grs_compliance_annualintegrityreview</name>
+            <sequence/>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-05-04 19:03:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f14e39d9dbe232003a22fbb9af9619ac</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-04 19:40:32</sys_updated_on>
+            <value>Russia - Sakhalin</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>MEAI</dependent_value>
+            <element>organizer_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Saudi Arabia</label>
+            <language>en</language>
+            <name>x_grs_compliance_annualintegrityreview</name>
+            <sequence/>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-05-04 19:46:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>360846dddbe232003a22fbb9af96194e</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-04 19:47:57</sys_updated_on>
+            <value>Saudi Arabia</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Asia</dependent_value>
+            <element>organizer_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Singapore</label>
+            <language>en</language>
+            <name>x_grs_compliance_annualintegrityreview</name>
+            <sequence/>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-05-04 18:56:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>90acf1d9dbe232003a22fbb9af9619c5</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-04 18:57:57</sys_updated_on>
+            <value>Singapore</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>MEAI</dependent_value>
+            <element>organizer_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>South Africa</label>
+            <language>en</language>
+            <name>x_grs_compliance_annualintegrityreview</name>
+            <sequence/>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-05-04 19:46:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3d18cadddbe232003a22fbb9af9619fb</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-04 19:47:58</sys_updated_on>
+            <value>South Africa</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Europe</dependent_value>
+            <element>organizer_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Spain</label>
+            <language>en</language>
+            <name>x_grs_compliance_annualintegrityreview</name>
+            <sequence/>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-05-04 19:04:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>985e39d9dbe232003a22fbb9af9619ac</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-04 19:40:34</sys_updated_on>
+            <value>Spain</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Europe</dependent_value>
+            <element>organizer_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sweden</label>
+            <language>en</language>
+            <name>x_grs_compliance_annualintegrityreview</name>
+            <sequence/>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-05-04 19:04:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a25e711ddbe232003a22fbb9af9619d2</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-04 19:40:37</sys_updated_on>
+            <value>Sweden</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Europe</dependent_value>
+            <element>organizer_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Switzerland</label>
+            <language>en</language>
+            <name>x_grs_compliance_annualintegrityreview</name>
+            <sequence/>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-05-04 19:04:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>306e711ddbe232003a22fbb9af9619a1</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-04 19:40:40</sys_updated_on>
+            <value>Switzerland</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Asia</dependent_value>
+            <element>organizer_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Taiwan</label>
+            <language>en</language>
+            <name>x_grs_compliance_annualintegrityreview</name>
+            <sequence/>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-05-04 18:56:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>aeac75d9dbe232003a22fbb9af9619d3</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-04 18:57:59</sys_updated_on>
+            <value>Taiwan</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Asia</dependent_value>
+            <element>organizer_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Thailand</label>
+            <language>en</language>
+            <name>x_grs_compliance_annualintegrityreview</name>
+            <sequence/>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-05-04 18:57:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c5bcb5d9dbe232003a22fbb9af961935</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-04 18:58:01</sys_updated_on>
+            <value>Thailand</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Latin America</dependent_value>
+            <element>organizer_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Trinidad &amp; Tobago</label>
+            <language>en</language>
+            <name>x_grs_compliance_annualintegrityreview</name>
+            <sequence/>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-05-04 19:42:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7b17ca9ddbe232003a22fbb9af96191c</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-04 19:43:03</sys_updated_on>
+            <value>Trinidad &amp; Tobago</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>MEAI</dependent_value>
+            <element>organizer_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Tunisia</label>
+            <language>en</language>
+            <name>x_grs_compliance_annualintegrityreview</name>
+            <sequence/>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-05-04 19:47:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b0280edddbe232003a22fbb9af961938</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-04 19:48:00</sys_updated_on>
+            <value>Tunisia</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Europe</dependent_value>
+            <element>organizer_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Turkey</label>
+            <language>en</language>
+            <name>x_grs_compliance_annualintegrityreview</name>
+            <sequence/>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-05-04 19:04:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c36eb11ddbe232003a22fbb9af961929</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-04 19:40:42</sys_updated_on>
+            <value>Turkey</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>MEAI</dependent_value>
+            <element>organizer_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>UAE</label>
+            <language>en</language>
+            <name>x_grs_compliance_annualintegrityreview</name>
+            <sequence/>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-05-04 19:47:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8728cadddbe232003a22fbb9af961955</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-04 19:48:01</sys_updated_on>
+            <value>UAE</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Europe</dependent_value>
+            <element>organizer_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>UK</label>
+            <language>en</language>
+            <name>x_grs_compliance_annualintegrityreview</name>
+            <sequence/>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-05-04 19:04:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>897e711ddbe232003a22fbb9af9619d9</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-04 19:40:44</sys_updated_on>
+            <value>UK</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>North America</dependent_value>
+            <element>organizer_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>US</label>
+            <language>en</language>
+            <name>x_grs_compliance_annualintegrityreview</name>
+            <sequence/>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-05-04 19:48:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>68784edddbe232003a22fbb9af9619df</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-04 19:48:38</sys_updated_on>
+            <value>US</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>North America</dependent_value>
+            <element>organizer_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>US-Craft</label>
+            <language>en</language>
+            <name>x_grs_compliance_annualintegrityreview</name>
+            <sequence/>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-05-04 19:48:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2a788adddbe232003a22fbb9af9619be</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-04 19:48:39</sys_updated_on>
+            <value>US-Craft</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Asia</dependent_value>
+            <element>organizer_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Vietnam</label>
+            <language>en</language>
+            <name>x_grs_compliance_annualintegrityreview</name>
+            <sequence/>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-05-04 18:57:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cbbcf1d9dbe232003a22fbb9af96199e</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-04 18:58:03</sys_updated_on>
+            <value>Vietnam</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>organizer_country</element>
+            <name>x_grs_compliance_annualintegrityreview</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-05-04 18:55:10</sys_created_on>
+            <sys_id>2bc358c7db301300a98ff91ebf961991</sys_id>
+            <sys_mod_count>206</sys_mod_count>
+            <sys_name>organizer_country</sys_name>
+            <sys_package display_value="Compliance" source="x_grs_compliance">f14d9178dbe3e60067b8f2f9af961914</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Compliance">f14d9178dbe3e60067b8f2f9af961914</sys_scope>
+            <sys_update_name>sys_choice_x_grs_compliance_annualintegrityreview_organizer_country</sys_update_name>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-04 19:48:38</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="region_function" table="x_grs_compliance_integrityconcern" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>region_function</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Asia</label>
+            <language>en</language>
+            <name>x_grs_compliance_integrityconcern</name>
+            <sequence>1</sequence>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-04-21 15:08:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2acbc64ddb52f2003a22fbb9af961973</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-04-25 14:01:21</sys_updated_on>
+            <value>Asia</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>region_function</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LA</label>
+            <language>en</language>
+            <name>x_grs_compliance_integrityconcern</name>
+            <sequence>2</sequence>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-04-21 15:09:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>eddbc64ddb52f2003a22fbb9af961973</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-04-21 15:09:16</sys_updated_on>
+            <value>LA</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>region_function</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>NA</label>
+            <language>en</language>
+            <name>x_grs_compliance_integrityconcern</name>
+            <sequence>3</sequence>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-04-21 15:09:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>15eb860ddb52f2003a22fbb9af961917</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-04-21 15:11:15</sys_updated_on>
+            <value>NA</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>region_function</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>EU</label>
+            <language>en</language>
+            <name>x_grs_compliance_integrityconcern</name>
+            <sequence>4</sequence>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-04-21 15:09:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>35fb0a4ddb52f2003a22fbb9af96198a</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-04-21 15:11:59</sys_updated_on>
+            <value>EU</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>region_function</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>AIM</label>
+            <language>en</language>
+            <name>x_grs_compliance_integrityconcern</name>
+            <sequence>5</sequence>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-04-21 15:09:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>440c0a0ddb52f2003a22fbb9af961929</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-04-25 14:00:51</sys_updated_on>
+            <value>AIM</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>region_function</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DP</label>
+            <language>en</language>
+            <name>x_grs_compliance_integrityconcern</name>
+            <sequence>6</sequence>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-04-21 15:09:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c30c460ddb52f2003a22fbb9af9619a7</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-04-21 15:12:04</sys_updated_on>
+            <value>DP</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>region_function</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Staff Corporate Function</label>
+            <language>en</language>
+            <name>x_grs_compliance_integrityconcern</name>
+            <sequence>7</sequence>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-04-21 15:10:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>711c464ddb52f2003a22fbb9af9619bd</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-15 19:50:16</sys_updated_on>
+            <value>staff_corporate_function</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>region_function</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Staff SO</label>
+            <language>en</language>
+            <name>x_grs_compliance_integrityconcern</name>
+            <sequence>10</sequence>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-04-21 15:10:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b44c464ddb52f2003a22fbb9af9619be</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-04-21 15:12:20</sys_updated_on>
+            <value>staff_so</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>region_function</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_grs_compliance_integrityconcern</name>
+            <sequence>11</sequence>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-04-21 15:13:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dadc0e4ddb52f2003a22fbb9af9619ae</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-04-26 18:58:50</sys_updated_on>
+            <value>other</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>region_function</element>
+            <name>x_grs_compliance_integrityconcern</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>Krishna.Chaitanya</sys_created_by>
+            <sys_created_on>2017-04-21 15:08:50</sys_created_on>
+            <sys_id>d4d3d8c7db301300a98ff91ebf9619e1</sys_id>
+            <sys_mod_count>46</sys_mod_count>
+            <sys_name>region_function</sys_name>
+            <sys_package display_value="Compliance" source="x_grs_compliance">f14d9178dbe3e60067b8f2f9af961914</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Compliance">f14d9178dbe3e60067b8f2f9af961914</sys_scope>
+            <sys_update_name>sys_choice_x_grs_compliance_integrityconcern_region_function</sys_update_name>
+            <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+            <sys_updated_on>2017-05-15 19:50:25</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

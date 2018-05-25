@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <misc>0</misc>
+        <order>32</order>
+        <question display_value="Country:">63e23d3ddb85c300ed28f209af961934</question>
+        <rec_misc>0</rec_misc>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>Krishna.Chaitanya</sys_created_by>
+        <sys_created_on>2017-09-07 14:08:10</sys_created_on>
+        <sys_id>08f23d3ddb85c300ed28f209af961971</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Russia - Moscow</sys_name>
+        <sys_package display_value="Compliance" source="x_grs_compliance">f14d9178dbe3e60067b8f2f9af961914</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Compliance">f14d9178dbe3e60067b8f2f9af961914</sys_scope>
+        <sys_update_name>question_choice_08f23d3ddb85c300ed28f209af961971</sys_update_name>
+        <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+        <sys_updated_on>2017-09-07 14:08:10</sys_updated_on>
+        <text>Russia - Moscow</text>
+        <value>Russia - Moscow</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=08f23d3ddb85c300ed28f209af961971"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>misc</field>
+        <id>08f23d3ddb85c300ed28f209af961971</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>Krishna.Chaitanya</sys_created_by>
+        <sys_created_on>2017-09-07 14:08:10</sys_created_on>
+        <sys_id>4cf23d3ddb85c300ed28f209af961971</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+        <sys_updated_on>2017-09-07 14:08:10</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>rec_misc</field>
+        <id>08f23d3ddb85c300ed28f209af961971</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>Krishna.Chaitanya</sys_created_by>
+        <sys_created_on>2017-09-07 14:08:10</sys_created_on>
+        <sys_id>c8f23d3ddb85c300ed28f209af961971</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Krishna.Chaitanya</sys_updated_by>
+        <sys_updated_on>2017-09-07 14:08:10</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+</record_update>

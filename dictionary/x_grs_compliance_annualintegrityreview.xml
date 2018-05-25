@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="AnnualIntegrityReview" max_length="40" name="x_grs_compliance_annualintegrityreview" type="collection">
+        <element label="Attendees-Other" max_length="1000" name="attendees_other" type="string_full_utf8"/>
+        <element label="Attendees List (Search by First Name)" max_length="4000" name="meeting_attendees" reference="sys_user" type="glide_list"/>
+        <element choice="1" label="Method" max_length="40" name="meeting_method" type="choice">
+            <choice>
+                <element label="Conference Call" sequence="0" value="Conference Call"/>
+                <element label="Face to Face" sequence="1" value="Face to Face"/>
+                <element label="Online Meeting" sequence="2" value="Online Meeting"/>
+            </choice>
+        </element>
+        <element label="Meeting Date / Time" mandatory="true" max_length="40" name="meeting_time" type="glide_date_time"/>
+        <element default="javascript:global.getNextObjNumberPadded();" display="true" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Contact No:" max_length="40" name="organizer_contact" type="string"/>
+        <element choice="1" dependent="organizer_region" dependent_on_field="organizer_region" label="Country:" max_length="40" name="organizer_country" type="choice" use_dependent_field="true">
+            <choice>
+                <element dependent_value="MEAI" label="Algeria" value="Algeria"/>
+                <element dependent_value="MEAI" label="Algeria Branch" value="Algeria Branch"/>
+                <element dependent_value="MEAI" label="Angola" value="Angola"/>
+                <element dependent_value="Latin America" label="Argentina" value="Argentina"/>
+                <element dependent_value="Asia" label="Australia" value="Australia"/>
+                <element dependent_value="Europe" label="Austria" value="Austria"/>
+                <element dependent_value="MEAI" label="Bahrain" value="Bahrain"/>
+                <element dependent_value="Europe" label="Belgium" value="Belgium"/>
+                <element dependent_value="Latin America" label="Brazil" value="Brazil"/>
+                <element dependent_value="North America" label="Canada" value="Canada"/>
+                <element dependent_value="Latin America" label="Chile" value="Chile"/>
+                <element dependent_value="Asia" label="China" value="China"/>
+                <element dependent_value="Latin America" label="Colombia" value="Colombia"/>
+                <element dependent_value="MEAI" label="Cote d'Ivoire" value="Cote d'Ivoire"/>
+                <element dependent_value="Europe" label="Croatia" value="Croatia"/>
+                <element dependent_value="Europe" label="Czech Republic" value="Czech Republic"/>
+                <element dependent_value="Europe" label="Denmark" value="Denmark"/>
+                <element dependent_value="MEAI" label="Egypt" value="Egypt"/>
+                <element dependent_value="Europe" label="Estonia" value="Estonia"/>
+                <element dependent_value="Europe" label="Finland" value="Finland"/>
+                <element dependent_value="Europe" label="Germany" value="Germany"/>
+                <element dependent_value="Europe" label="Greece" value="Greece"/>
+                <element dependent_value="Asia" label="Hong Kong" value="Hong Kong"/>
+                <element dependent_value="Europe" label="Hungary" value="Hungary"/>
+                <element dependent_value="MEAI" label="India" value="India"/>
+                <element dependent_value="Asia" label="Indonesia" value="Indonesia"/>
+                <element dependent_value="MEAI" label="Iraq" value="Iraq"/>
+                <element dependent_value="Europe" label="Ireland" value="Ireland"/>
+                <element dependent_value="Europe" label="Israel" value="Israel"/>
+                <element dependent_value="Europe" label="Italy" value="Italy"/>
+                <element dependent_value="MEAI" label="Jordan or Lebanon" value="Jordan or Lebanon"/>
+                <element dependent_value="Europe" label="Kazakhstan" value="Kazakhstan"/>
+                <element dependent_value="Asia" label="Korea" value="Korea"/>
+                <element dependent_value="MEAI" label="Kuwait" value="Kuwait"/>
+                <element dependent_value="MEAI" label="Lebanon or Jordan" value="Lebanon or Jordan"/>
+                <element dependent_value="MEAI" label="Libya" value="Libya"/>
+                <element dependent_value="Asia" label="Malaysia" value="Malaysia"/>
+                <element dependent_value="Latin America" label="Mexico" value="Mexico"/>
+                <element dependent_value="MEAI" label="Morocco" value="Morocco"/>
+                <element dependent_value="Europe" label="Netherlands" value="Netherlands"/>
+                <element dependent_value="Asia" label="New Zealand" value="New Zealand"/>
+                <element dependent_value="MEAI" label="Nigeria" value="Nigeria"/>
+                <element dependent_value="Europe" label="Norway" value="Norway"/>
+                <element dependent_value="MEAI" label="Oman" value="Oman"/>
+                <element dependent_value="MEAI" label="Pakistan" value="Pakistan"/>
+                <element dependent_value="Latin America" label="Peru" value="Peru"/>
+                <element dependent_value="Asia" label="Philippines" value="Philippines"/>
+                <element dependent_value="Europe" label="Poland" value="Poland"/>
+                <element dependent_value="Europe" label="Portugal" value="Portugal"/>
+                <element dependent_value="MEAI" label="Qatar" value="Qatar"/>
+                <element dependent_value="Europe" label="Romania" value="Romania"/>
+                <element dependent_value="Europe" label="Russia - Moscow" value="Russia - Moscow"/>
+                <element dependent_value="Europe" label="Russia - Sakhalin" value="Russia - Sakhalin"/>
+                <element dependent_value="MEAI" label="Saudi Arabia" value="Saudi Arabia"/>
+                <element dependent_value="Asia" label="Singapore" value="Singapore"/>
+                <element dependent_value="MEAI" label="South Africa" value="South Africa"/>
+                <element dependent_value="Europe" label="Spain" value="Spain"/>
+                <element dependent_value="Europe" label="Sweden" value="Sweden"/>
+                <element dependent_value="Europe" label="Switzerland" value="Switzerland"/>
+                <element dependent_value="Asia" label="Taiwan" value="Taiwan"/>
+                <element dependent_value="Asia" label="Thailand" value="Thailand"/>
+                <element dependent_value="Latin America" label="Trinidad &amp; Tobago" value="Trinidad &amp; Tobago"/>
+                <element dependent_value="MEAI" label="Tunisia" value="Tunisia"/>
+                <element dependent_value="Europe" label="Turkey" value="Turkey"/>
+                <element dependent_value="MEAI" label="UAE" value="UAE"/>
+                <element dependent_value="Europe" label="UK" value="UK"/>
+                <element dependent_value="North America" label="US" value="US"/>
+                <element dependent_value="North America" label="US-Craft" value="US-Craft"/>
+                <element dependent_value="Asia" label="Vietnam" value="Vietnam"/>
+            </choice>
+        </element>
+        <element label="HR Representative:" max_length="40" name="organizer_hr" reference="sys_user" type="reference"/>
+        <element label="Reports To:" max_length="32" name="organizer_manager" reference="sys_user" type="reference"/>
+        <element label="Reports To:(Title)" max_length="30" name="organizer_manager_title" type="string"/>
+        <element label="Meeting Organizer Name:" max_length="100" name="organizer_name" reference="sys_user" type="reference"/>
+        <element choice="1" label="Region:" max_length="40" name="organizer_region" type="choice">
+            <choice>
+                <element label="Asia" value="Asia"/>
+                <element label="Europe" value="Europe"/>
+                <element label="Latin America" value="Latin America"/>
+                <element label="MEAI" value="MEAI"/>
+                <element label="North America" value="North America"/>
+            </choice>
+        </element>
+        <element choice="1" label="Segment:" max_length="40" name="organizer_segment" type="choice">
+            <choice>
+                <element label="DP GT ADMIN" sequence="0" value="DP GT ADMIN"/>
+                <element label="DP GT INSTALL TA" sequence="1" value="DP GT INSTALL TA"/>
+                <element label="DP GT INSTALL TECH" sequence="2" value="DP GT INSTALL TECH"/>
+                <element label="DP GT MAINT" sequence="3" value="DP GT MAINT"/>
+                <element label="DP RE" sequence="4" value="DP RE"/>
+            </choice>
+        </element>
+        <element label="Position/Title:" max_length="40" name="organizer_title" type="string"/>
+        <element label="Response Description" max_length="2000" name="response_description" type="string_full_utf8"/>
+        <element default="javascript:current.getTableName();" dynamic_default_value="b5cb83a85f220100a9ad2572f2b4773c" label="Class" max_length="80" name="sys_class_name" type="sys_class_name" use_dynamic_default="true"/>
+        <index name="index">
+            <element name="organizer_manager"/>
+        </index>
+        <index name="index2">
+            <element name="organizer_hr"/>
+        </index>
+        <index name="index3">
+            <element name="organizer_name"/>
+        </index>
+    </element>
+</database>
